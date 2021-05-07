@@ -1,7 +1,6 @@
 import asyncio
 import websockets
 import json
-import argparse
 import schedule
 import datetime
 
